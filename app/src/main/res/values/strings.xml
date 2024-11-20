@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Jimboo</string>
+    <string name="loggin_button_text">Log In</string>
+    <string name="register_button_text">Register</string>
 </resources>
