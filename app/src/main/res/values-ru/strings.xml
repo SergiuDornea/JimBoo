@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ЖимБоо</string>
+    <string name="loggin_button_text">Войти</string>
+    <string name="register_button_text">Зарегистрироваться</string>
+</resources>
